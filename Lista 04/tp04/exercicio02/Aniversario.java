@@ -1,7 +1,3 @@
-// By Emanuelle Ferraz
-   Disciplina: Programação de Computadores II
-   2023 
-//
 package tp04.exercicio02;
 
 public class Aniversario extends CartaoWeb {
